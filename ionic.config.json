@@ -1,0 +1,7 @@
+{
+  "name": "holamundo3",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
